@@ -1,5 +1,6 @@
 
 # HOMEHINT
+
 HOMEHINT  is a house price prediction project that involves using a dataset of real estate information to create a model that can predict the prices of homes in a particular area based on various features such as the number of bedrooms, square footage, location, and more.
 
 To develop such a model, you would first need to collect a large dataset of real estate information that includes the relevant features for each property, as well as the actual sale prices. You would then need to clean and preprocess the data to ensure that it is suitable for analysis.
